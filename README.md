@@ -503,36 +503,6 @@ Punjab University · 2014
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&bg_color=0a0f1a&border_color=00d4ff&title_color=00d4ff&text_color=cce4f0&icon_color=00ff9d&include_all_commits=true&count_private=true)
-
-&nbsp;
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&bg_color=0a0f1a&border_color=a855f7&title_color=a855f7&text_color=cce4f0&langs_count=8)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&background=0a0f1a&border=00d4ff&stroke=00d4ff&ring=00ff9d&fire=ff4da6&currStreakNum=ffffff&sideNums=cce4f0&currStreakLabel=00d4ff&sideLabels=4a7a93&dates=4a7a93)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🏆 Certifications & Credentials
 
 <div align="center">
@@ -544,28 +514,6 @@ Punjab University · 2014
 | **AWS Certified Data Engineer Associate** | Amazon Web Services | ✅ Certified |
 | **AWS Well-Architected Framework** | Amazon Web Services | ✅ Completed |
 | **Snowflake SnowPro Certification** | Snowflake | ✅ Certified |
-
-</div>
-
----
-
-## ⏱️ WakaTime Coding Stats
-
-<div align="center">
-
-[![Muhammad Atif's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadatif690&theme=midnight-purple&bg_color=0a0f1a&border_color=00d4ff&title_color=00d4ff&text_color=cce4f0&icon_color=00ff9d&layout=compact&langs_count=8)](https://wakatime.com/)
-
-> 💡 **To activate:** Install the WakaTime plugin in VS Code / PyCharm and replace `YOUR_GITHUB_USERNAME` with your actual WakaTime username.
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadatif690&bg_color=0a0f1a&color=00d4ff&line=00ff9d&point=a855f7&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Muhammad%20Atif's%20Contribution%20Graph)
 
 </div>
 
