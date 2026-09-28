@@ -553,7 +553,7 @@ Punjab University · 2014
 
 <div align="center">
 
-[![Muhammad Atif's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&theme=midnight-purple&bg_color=0a0f1a&border_color=00d4ff&title_color=00d4ff&text_color=cce4f0&icon_color=00ff9d&layout=compact&langs_count=8)](https://wakatime.com/)
+[![Muhammad Atif's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadatif690&theme=midnight-purple&bg_color=0a0f1a&border_color=00d4ff&title_color=00d4ff&text_color=cce4f0&icon_color=00ff9d&layout=compact&langs_count=8)](https://wakatime.com/)
 
 > 💡 **To activate:** Install the WakaTime plugin in VS Code / PyCharm and replace `YOUR_GITHUB_USERNAME` with your actual WakaTime username.
 
@@ -565,7 +565,7 @@ Punjab University · 2014
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0a0f1a&color=00d4ff&line=00ff9d&point=a855f7&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Muhammad%20Atif's%20Contribution%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadatif690&bg_color=0a0f1a&color=00d4ff&line=00ff9d&point=a855f7&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&custom_title=Muhammad%20Atif's%20Contribution%20Graph)
 
 </div>
 
