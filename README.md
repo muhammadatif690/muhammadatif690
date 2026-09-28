@@ -105,8 +105,6 @@ class MuhammadAtif:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1a)](YOUR_LINKEDIN_URL)
-
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1a)](mailto:muh.atif690@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a)](https://github.com/YOUR_GITHUB_USERNAME)
